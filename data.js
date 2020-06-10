@@ -252,26 +252,26 @@ export let dataResults = [
     {
         result: 'Мне больше интересен футбол',
         count: 0,
-        imgSrc: '../img/football.png'
+        imgSrc: './img/football.png'
     },
     {
         result: 'Читаю vc.ru с экрана попутчика в метро',
         count: 3,
-        imgSrc: '../img/metro.png'
+        imgSrc: './img/metro.png'
     },
     {
         result: 'Бизнес это интересно, но где взять столько времени?',
         count: 5,
-        imgSrc: '../img/time.png'
+        imgSrc: './img/time.png'
     },
     {
         result: 'Читаю vc.ru каждый день, но работать тоже нужно',
         count: 7,
-        imgSrc: '../img/work.png'
+        imgSrc: './img/work.png'
     },
     {
         result: 'Я работаю в редакции vc.ru',
         count: 8,
-        imgSrc: '../img/master.png'
+        imgSrc: './img/master.png'
     }
 ]
